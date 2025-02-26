@@ -1,24 +1,24 @@
-# Gettysburg Address Transcript & Audio  
+# Audio Transcription & Processing with Google Speech-to-Text  
 
-This repository contains a Jupyter Notebook for processing the **Gettysburg Address** and an accompanying **MP3 file** of the speech.
+This repository contains a Jupyter Notebook for processing **audio files** using **Google's Speech-to-Text API** and an accompanying **MP3 file** as an example.
 
 ## 📂 Files Included  
 
-- **`transcript.ipynb`** – Jupyter Notebook for analyzing or displaying the text of the Gettysburg Address.  
-- **`Lincoln.mp3`** – Audio file of the speech.  
+- **`transcript.ipynb`** – Jupyter Notebook for transcribing and analyzing audio files using Google's Speech-to-Text API.  
+- **`Lincoln.mp3`** – Sample audio file used for transcription and analysis.  
 
 ## 🚀 Usage  
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/gettysburg-address.git
+   git clone https://github.com/your-username/audio-transcription.git
    ```
 2. Open `transcript.ipynb` in Jupyter Notebook.  
-3. Play `Lincoln.mp3` using any media player.  
+3. Run the notebook to transcribe and analyze `Lincoln.mp3` or any other audio file.  
 
-## 📜 About the Gettysburg Address  
+## 📜 About Google Speech-to-Text  
 
-The **Gettysburg Address** is one of the most famous speeches in American history, delivered by **Abraham Lincoln** on **November 19, 1863**, during the American Civil War.  
+Google's **Speech-to-Text API** provides powerful real-time speech recognition and transcription services. This repository demonstrates its capabilities using a sample MP3 file.  
 
 ## 🔗 License  
 
